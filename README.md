@@ -1,4 +1,3 @@
-Recuperación de Unidad 1
 =======
 # Portafolio académico — Recuperación Unidad I
 
