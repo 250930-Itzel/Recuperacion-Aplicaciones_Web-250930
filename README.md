@@ -74,4 +74,7 @@ Guarda en `Recuperacion_U1/evidencias/` capturas reales de:
 3. Los detalles de una competencia abiertos con JavaScript.
 4. El historial de al menos tres commits.
 5. La página publicada en GitHub Pages.
+ 
+## Enlace
 
+https://250930-itzel.github.io/Recuperacion-Aplicaciones_Web-250930/
