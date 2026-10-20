@@ -1,4 +1,3 @@
-=======
 # Portafolio académico — Recuperación Unidad I
 
 **Estudiante:** Itzel Joseline Sánchez Hernández  
