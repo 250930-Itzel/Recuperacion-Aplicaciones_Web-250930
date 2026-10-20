@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Recuperación de Unidad 1
 =======
 # Portafolio académico — Recuperación Unidad I
@@ -76,6 +75,3 @@ Guarda en `Recuperacion_U1/evidencias/` capturas reales de:
 4. El historial de al menos tres commits.
 5. La página publicada en GitHub Pages.
 
-No agregues capturas simuladas: toma las imágenes después de probar el sitio.
-
->>>>>>> Recuperacion_U1
