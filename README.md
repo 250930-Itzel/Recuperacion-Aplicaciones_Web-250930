@@ -75,6 +75,3 @@ Guarda en `Recuperacion_U1/evidencias/` capturas reales de:
 
 No agregues capturas simuladas: toma las imágenes después de probar el sitio.
 
-## Cuestionario PDF
-
-El archivo PDF del cuestionario se generó por separado. Descárgalo desde la conversación y súbelo a `Recuperacion_U1/Cuestionario_Recuperacion_Aplicaciones_Web_Unidad_I.pdf` para cumplir con el requisito de entregar el cuestionario en PDF dentro del repositorio. Se incluye también una versión en Markdown para consulta y edición.
